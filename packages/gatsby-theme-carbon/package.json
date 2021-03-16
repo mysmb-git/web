@@ -14,9 +14,9 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "gatsby": "^2.24.14",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "gatsby": "2.24.67",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
   },
   "dependencies": {
     "@babel/core": "^7.10.4",
