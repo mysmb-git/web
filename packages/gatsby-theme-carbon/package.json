@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@babel/core": "^7.10.4",
-    "@carbon/elements": "^10.11.0",
+    "@carbon/elements": "^10.20.0",
     "@carbon/icons-react": "^10.10.0",
     "@emotion/core": "^10.0.10",
     "@emotion/styled": "^10.0.11",
