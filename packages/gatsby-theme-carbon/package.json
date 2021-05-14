@@ -14,7 +14,7 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "gatsby": "^2.24.14",
+    "gatsby": "2.32.13",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
