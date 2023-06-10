@@ -15148,10 +15148,10 @@ prepend-http@^2.0.0:
   resolved "https://registry.yarnpkg.com/prepend-http/-/prepend-http-2.0.0.tgz#e92434bfa5ea8c19f41cdfd401d741a3c819d897"
   integrity sha1-6SQ0v6XqjBn0HN/UAddBo8gZ2Jc=
 
-prettier-config-carbon@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/prettier-config-carbon/-/prettier-config-carbon-0.2.0.tgz#d75333c17f3b04fc1bb66aa49857f00d19502e3a"
-  integrity sha512-R1hb/IjlVKLNuLs3IKuGQj0RFUqIZP/8f1A2TSZVWlq35RfhoPrGg/y/UwJLB/24sQq7b9htbZe3/eZizyNMDA==
+prettier-config-carbon@^0.11.0:
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/prettier-config-carbon/-/prettier-config-carbon-0.11.0.tgz#4b5f4d83dcaedf97277fba5f6f4e9d7510f7e3a7"
+  integrity sha512-TEnwTd3lSARCENhlzy7zfqxDAq9mNCpqv7OssAHqnM/BUBNcgGSXR1mfO/gYtIl1NbVyl68ZqyDGILri12MKJg==
 
 prettier-linter-helpers@^1.0.0:
   version "1.0.0"
