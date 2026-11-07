@@ -3056,9 +3056,7 @@
     tslib "^2.0.0"
 
 "@release-it/conventional-changelog@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.npmjs.org/@release-it/conventional-changelog/-/conventional-changelog-2.0.0.tgz#7101d5174c1d99adf5769561bd4c0741ffa754a9"
-  integrity sha512-S6mm01dtRsG0ouzcxQoTF2R9q4uhJyGV9NyDmt5Yamd/zbLAPhRmtwdekjKwEkAHQMvIcM1WfbEY/YoPVW0Jbw==
+  version "2.0.1"
   dependencies:
     concat-stream "^2.0.0"
     conventional-changelog "^3.1.23"
